@@ -1,6 +1,7 @@
 ## Hi There! 👋
 I'm a Bachelor Computer Science and Engineering Student @ TU/e.
 
+Interested in in Computer Graphics, Simulation, Numerical Analysis and Machine Learning with a focus on high performance and cross-disciplinary software systems. 
 
 Some Technologies I Like:
 
